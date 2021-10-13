@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nic@kaastor.ca
+	name = Nic Fortin
